@@ -781,29 +781,7 @@
       "zip_http_url": "",
       "file_count": "57"
     },
-    {
-      "rating": "0.0",
-      "age_range": "young adult, adult",
-      "zip_ftp_url": "",
-      "module_id": "IIAB106",
-      "is_hidden": "No",
-      "moddir": "en-wl_ilearnabout_biodiversity",
-      "category": "educational,technical",
-      "title": "iLearnabout: Powering Conservation Education",
-      "prereq_id":null,
-      "version": "1.0",
-      "ksize": "202952",
-      "logo_url": null,
-      "type": "html",
-      "description": "iLearnabout is an exciting environmental and conservation education initiative developed by the iAfrica Foundation to provide freely available digital resources in Sub-Saharan Africa..",
-      "index_mod_sample_url": null,
-      "source_url": "",
-      "rsync_url": "",
-      "rclone": "wasabi-iiab-share:iiab-modules/en-wl_ilearnabout_biodiversity",
-      "lang": "en",
-      "zip_http_url": "",
-      "file_count": "894"
-    },
+
     {
       "rating": "0.0",
       "age_range": "young adult, adult",
@@ -826,5 +804,28 @@
       "lang": "en",
       "zip_http_url": "",
       "file_count": 30864
+    }
+        {
+      "rating": "0.0",
+      "age_range": "young adult, adult",
+      "zip_ftp_url": "",
+      "module_id": "IIAB108",
+      "is_hidden": "No",
+      "moddir": "en-ilearnabout-topics",
+      "category": "educational,technical",
+      "title": "iLearnabout Digital Library",
+      "prereq_id":null,
+      "version": "1.0",
+      "ksize": "700120",
+      "logo_url": null,
+      "type": "html",
+      "description": "iLearabout topics on Biodiversity, Climate Change, Forests, Soil, Water and Livelihoods  and Wildlife Conservation",
+      "index_mod_sample_url": null,
+      "source_url": "",
+      "rsync_url": "",
+      "rclone": "wasabi-iiab-share:iiab-modules/en-ilearnabout-topics",
+      "lang": "en",
+      "zip_http_url": "",
+      "file_count": "6311"
     }
 ]
